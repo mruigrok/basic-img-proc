@@ -4,9 +4,6 @@ import numpy as np
 import os
 import sys
 
-# CE 4TN4 Project 1
-# Matthew Ruigrok
-
 def read_in_image(filename):
     if os.path.exists(filename):
         img = cv2.imread(filename)
