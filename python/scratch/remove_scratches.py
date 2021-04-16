@@ -6,13 +6,6 @@ import numpy as np
 from scipy.signal import convolve2d
 
 
-# ============================ 
-#       CE 4TN4 Project 2
-#           ruigrokm
-#           400157452
-# ============================
-
-
 # ================================================================
 #                   Part 1 - Generating mask
 # 
